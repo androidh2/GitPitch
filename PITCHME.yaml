@@ -1,4 +1,6 @@
-theme : moon
+#テーマの設定 black, moon, night, beige, sky, and white
+theme : night
+
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
